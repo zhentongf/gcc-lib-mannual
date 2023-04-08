@@ -1,3 +1,3 @@
-# GCC C++ Library Mannual
+# GCC C++ Library Manual
 ---
 `https://gcc.gnu.org/onlinedocs/`
