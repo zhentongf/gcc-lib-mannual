@@ -1,0 +1,32 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a03766.html" title="integral_constant" alt="" coords="5,921,160,960"/>
+<area shape="rect" id="node2" href="$a04250.html" title=" " alt="" coords="234,5,405,71"/>
+<area shape="rect" id="node3" href="$a04518.html" title="has_unique_object_representations" alt="" coords="234,95,405,133"/>
+<area shape="rect" id="node4" href="$a04522.html" title="is_aggregate" alt="" coords="251,157,387,196"/>
+<area shape="rect" id="node5" href="$a03818.html" title="is_array" alt="" coords="227,220,411,245"/>
+<area shape="rect" id="node6" href="$a02382.html" title="Trait that identifies a bind expression." alt="" coords="239,269,400,308"/>
+<area shape="rect" id="node7" href="$a02414.html" title="Class template _Bind is always a bind expression." alt="" coords="231,332,407,371"/>
+<area shape="rect" id="node8" href="$a02430.html" title="Class template _Bind_result is always a bind expression." alt="" coords="234,395,405,447"/>
+<area shape="rect" id="node9" href="$a02418.html" title="Class template _Bind is always a bind expression." alt="" coords="213,471,426,509"/>
+<area shape="rect" id="node10" href="$a02434.html" title="Class template _Bind_result is always a bind expression." alt="" coords="234,533,405,585"/>
+<area shape="rect" id="node11" href="$a02426.html" title="Class template _Bind is always a bind expression." alt="" coords="239,609,400,661"/>
+<area shape="rect" id="node12" href="$a02442.html" title="Class template _Bind_result is always a bind expression." alt="" coords="209,685,429,737"/>
+<area shape="rect" id="node13" href="$a02422.html" title="Class template _Bind is always a bind expression." alt="" coords="208,761,431,800"/>
+<area shape="rect" id="node14" href="$a02438.html" title="Class template _Bind_result is always a bind expression." alt="" coords="229,824,409,876"/>
+<area shape="rect" id="node15" href="$a03806.html" title="is_const" alt="" coords="226,900,413,925"/>
+<area shape="rect" id="node16" href="$a03558.html" title="is_error_code_enum" alt="" coords="255,949,383,988"/>
+<area shape="rect" id="node17" href="$a02522.html" title="Specialization." alt="" coords="241,1012,398,1051"/>
+<area shape="rect" id="node18" href="$a03562.html" title="is_error_condition_enum" alt="" coords="242,1075,397,1113"/>
+<area shape="rect" id="node19" href="$a04562.html" title=" " alt="" coords="232,1137,407,1176"/>
+<area shape="rect" id="node20" href="$a03842.html" title="is_lvalue_reference" alt="" coords="238,1200,401,1239"/>
+<area shape="rect" id="node21" href="$a03878.html" title="is_member_function_pointer" alt="" coords="234,1263,405,1301"/>
+<area shape="rect" id="node22" href="$a03866.html" title="is_member_object_pointer" alt="" coords="240,1325,399,1364"/>
+<area shape="rect" id="node23" href="$a03910.html" title="is_null_pointer (LWG 2247)." alt="" coords="252,1388,387,1427"/>
+<area shape="rect" id="node25" href="$a03838.html" title="is_pointer" alt="" coords="241,1451,397,1476"/>
+<area shape="rect" id="node26" href="$a04566.html" title="True if _Derived is standard&#45;layout and has a base class of type _Base" alt="" coords="216,1500,423,1539"/>
+<area shape="rect" id="node27" href="$a03850.html" title="is_rvalue_reference" alt="" coords="237,1563,401,1601"/>
+<area shape="rect" id="node28" href="$a03942.html" title="is_same" alt="" coords="252,1625,387,1664"/>
+<area shape="rect" id="node29" href="$a03950.html" title="is_volatile" alt="" coords="222,1688,417,1713"/>
+<area shape="rect" id="node30" href="$a03750.html" title="Partial specialization for tuples." alt="" coords="246,1737,393,1789"/>
+<area shape="rect" id="node24" href="$a03914.html" title="__is_nullptr_t (deprecated extension)." alt="" coords="479,1388,605,1427"/>
+</map>

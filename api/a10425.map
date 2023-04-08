@@ -1,0 +1,4 @@
+<map id="__gnu_parallel::unbalanced_tag" name="__gnu_parallel::unbalanced_tag">
+<area shape="rect" id="node1" title="Recommends parallel execution using static load&#45;balancing at compile time." alt="" coords="5,79,217,104"/>
+<area shape="rect" id="node2" href="$a10414.html" title="Recommends parallel execution at compile time, optionally using a user&#45;specified number of threads." alt="" coords="19,5,203,31"/>
+</map>

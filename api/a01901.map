@@ -1,0 +1,6 @@
+<map id="std::bad_cast" name="std::bad_cast">
+<area shape="rect" id="node1" title="Thrown during incorrect typecasting." alt="" coords="103,79,206,104"/>
+<area shape="rect" id="node3" href="$a01910.html" title="Exception class thrown by a failed any_cast." alt="" coords="5,165,136,191"/>
+<area shape="rect" id="node4" href="$a11730.html" title="Exception class thrown by a failed any_cast." alt="" coords="160,152,317,204"/>
+<area shape="rect" id="node2" href="$a05922.html" title="Base class for all library exceptions." alt="" coords="101,5,208,31"/>
+</map>

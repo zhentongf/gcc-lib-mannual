@@ -1,0 +1,40 @@
+<map id="std::locale::facet" name="std::locale::facet">
+<area shape="rect" id="node1" title="Localization functionality base class." alt="" coords="5,623,127,648"/>
+<area shape="rect" id="node2" href="$a05630.html" title=" " alt="" coords="199,5,365,57"/>
+<area shape="rect" id="node4" href="$a05630.html" title=" " alt="" coords="175,81,389,120"/>
+<area shape="rect" id="node6" href="$a05630.html" title=" " alt="" coords="199,144,365,196"/>
+<area shape="rect" id="node8" href="$a05630.html" title=" " alt="" coords="189,220,375,272"/>
+<area shape="rect" id="node10" href="$a05630.html" title=" " alt="" coords="199,296,365,348"/>
+<area shape="rect" id="node12" href="$a06330.html" title=" " alt="" coords="207,372,357,411"/>
+<area shape="rect" id="node14" href="$a05630.html" title="Common base for codecvt functions." alt="" coords="189,435,375,487"/>
+<area shape="rect" id="node18" href="$a06330.html" title="Common base for ctype facet." alt="" coords="207,511,357,549"/>
+<area shape="rect" id="node21" href="$a06306.html" title="Facet for localized string comparison." alt="" coords="203,573,361,599"/>
+<area shape="rect" id="node23" href="$a06338.html" title="The ctype&lt;char&gt; specialization." alt="" coords="213,623,351,648"/>
+<area shape="rect" id="node25" href="$a06454.html" title="Primary class template messages." alt="" coords="193,672,371,697"/>
+<area shape="rect" id="node27" href="$a06442.html" title="Primary class template money_get." alt="" coords="195,721,369,760"/>
+<area shape="rect" id="node28" href="$a06446.html" title="Primary class template money_put." alt="" coords="194,784,370,823"/>
+<area shape="rect" id="node29" href="$a06434.html" title="Primary class template moneypunct." alt="" coords="189,847,375,885"/>
+<area shape="rect" id="node31" href="$a06374.html" title="Primary class template num_get." alt="" coords="201,909,363,948"/>
+<area shape="rect" id="node32" href="$a06378.html" title="Primary class template num_put." alt="" coords="201,972,363,1011"/>
+<area shape="rect" id="node33" href="$a06366.html" title="Primary class template numpunct." alt="" coords="191,1035,373,1060"/>
+<area shape="rect" id="node35" href="$a06406.html" title="Primary class template time_get." alt="" coords="201,1084,363,1123"/>
+<area shape="rect" id="node37" href="$a06414.html" title="Primary class template time_put." alt="" coords="201,1147,363,1185"/>
+<area shape="rect" id="node3" href="$a05646.html" title="Class codecvt&lt;char16_t, char, mbstate_t&gt; specialization." alt="" coords="457,12,611,51"/>
+<area shape="rect" id="node5" href="$a05638.html" title="class codecvt&lt;char, char, mbstate_t&gt; specialization." alt="" coords="463,81,605,120"/>
+<area shape="rect" id="node7" href="$a05642.html" title="Class codecvt&lt;wchar_t, char, mbstate_t&gt; specialization." alt="" coords="459,151,609,189"/>
+<area shape="rect" id="node9" href="$a12034.html" title="codecvt&lt;InternT, _ExternT, encoding_state&gt; specialization." alt="" coords="437,217,631,256"/>
+<area shape="rect" id="node11" href="$a05650.html" title="Class codecvt&lt;char32_t, char, mbstate_t&gt; specialization." alt="" coords="457,280,611,319"/>
+<area shape="rect" id="node13" href="$a06342.html" title="The ctype&lt;wchar_t&gt; specialization." alt="" coords="455,343,613,368"/>
+<area shape="rect" id="node15" href="$a05634.html" title=" " alt="" coords="459,392,609,431"/>
+<area shape="rect" id="node16" href="$a05634.html" title="Primary class template codecvt." alt="" coords="451,455,617,493"/>
+<area shape="rect" id="node17" href="$a05654.html" title="class codecvt_byname [22.2.1.6]." alt="" coords="679,441,831,493"/>
+<area shape="rect" id="node19" href="$a06334.html" title="Primary class template ctype facet." alt="" coords="458,517,610,543"/>
+<area shape="rect" id="node20" href="$a06346.html" title="class ctype_byname [22.2.1.2]." alt="" coords="681,517,829,556"/>
+<area shape="rect" id="node22" href="$a06310.html" title="class collate_byname [22.2.4.2]." alt="" coords="463,567,605,605"/>
+<area shape="rect" id="node24" href="$a06350.html" title="22.2.1.4 Class ctype_byname specializations." alt="" coords="460,629,608,668"/>
+<area shape="rect" id="node26" href="$a06458.html" title="class messages_byname [22.2.7.2]." alt="" coords="453,692,615,731"/>
+<area shape="rect" id="node30" href="$a06438.html" title="class moneypunct_byname [22.2.6.4]." alt="" coords="443,847,625,885"/>
+<area shape="rect" id="node34" href="$a06370.html" title="class numpunct_byname [22.2.3.2]." alt="" coords="450,1021,618,1060"/>
+<area shape="rect" id="node36" href="$a06410.html" title="class time_get_byname [22.2.5.2]." alt="" coords="455,1084,613,1123"/>
+<area shape="rect" id="node38" href="$a06418.html" title="class time_put_byname [22.2.5.4]." alt="" coords="455,1147,613,1185"/>
+</map>

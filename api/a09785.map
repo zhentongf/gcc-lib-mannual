@@ -1,0 +1,7 @@
+<map id="__gnu_debug::basic_string&lt; _CharT, _Traits, _Allocator &gt;" name="__gnu_debug::basic_string&lt; _CharT, _Traits, _Allocator &gt;">
+<area shape="rect" id="node1" title="Class std::basic_string with safety/checking/debug instrumentation." alt="" coords="700,87,867,139"/>
+<area shape="rect" id="node2" href="$a09654.html" title=" " alt="" coords="424,5,652,111"/>
+<area shape="rect" id="node3" href="$a09550.html" title="Base class for constructing a safe sequence type that tracks iterators that reference it." alt="" coords="196,39,376,77"/>
+<area shape="rect" id="node4" href="$a09650.html" title="Base class that supports tracking of iterators that reference a sequence." alt="" coords="5,39,148,77"/>
+<area shape="rect" id="node5" href="$a05666.html" title=" " alt="" coords="449,135,627,200"/>
+</map>

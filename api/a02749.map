@@ -1,0 +1,9 @@
+<map id="std::basic_iostream&lt; _CharT, _Traits &gt;" name="std::basic_iostream&lt; _CharT, _Traits &gt;">
+<area shape="rect" id="node1" title="Template class basic_iostream." alt="" coords="545,37,684,76"/>
+<area shape="rect" id="node6" href="$a02374.html" title="Controlling input and output for files." alt="" coords="753,5,889,44"/>
+<area shape="rect" id="node7" href="$a02766.html" title="Controlling input and output for std::string." alt="" coords="732,68,911,107"/>
+<area shape="rect" id="node2" href="$a02742.html" title="Template class basic_istream." alt="" coords="361,5,497,44"/>
+<area shape="rect" id="node3" href="$a02734.html" title="Template class basic_ios, virtual base class for all stream classes." alt="" coords="152,37,313,76"/>
+<area shape="rect" id="node5" href="$a02746.html" title="Template class basic_ostream." alt="" coords="361,68,497,107"/>
+<area shape="rect" id="node4" href="$a06134.html" title="The base of the I/O class hierarchy." alt="" coords="5,44,104,69"/>
+</map>

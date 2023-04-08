@@ -1,0 +1,4 @@
+<map id="std::bad_weak_ptr" name="std::bad_weak_ptr">
+<area shape="rect" id="node1" title="Exception possibly thrown by shared_ptr." alt="" coords="5,79,139,104"/>
+<area shape="rect" id="node2" href="$a05922.html" title="Base class for all library exceptions." alt="" coords="19,5,125,31"/>
+</map>

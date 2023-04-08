@@ -1,0 +1,8 @@
+<map id="__gnu_cxx::annotate_base" name="__gnu_cxx::annotate_base">
+<area shape="rect" id="node1" title="Base class for checking address and label information about allocations. Create a std::map between th..." alt="" coords="5,75,187,100"/>
+<area shape="rect" id="node2" href="$a12454.html" title=" " alt="" coords="235,5,457,44"/>
+<area shape="rect" id="node4" href="$a12454.html" title=" " alt="" coords="245,68,447,107"/>
+<area shape="rect" id="node6" href="$a12454.html" title="Allocator class with logging and exception generation control. Intended to be used as an allocator_ty..." alt="" coords="253,131,439,169"/>
+<area shape="rect" id="node3" href="$a12466.html" title="Allocator throwing via random condition." alt="" coords="505,5,691,44"/>
+<area shape="rect" id="node5" href="$a12458.html" title="Allocator throwing via limit condition." alt="" coords="505,68,691,107"/>
+</map>

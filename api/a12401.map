@@ -1,0 +1,8 @@
+<map id="__gnu_cxx::limit_condition" name="__gnu_cxx::limit_condition">
+<area shape="rect" id="node1" title="Base class for incremental control and throw." alt="" coords="236,44,417,69"/>
+<area shape="rect" id="node3" href="$a12454.html" title=" " alt="" coords="465,5,667,44"/>
+<area shape="rect" id="node5" href="$a12442.html" title=" " alt="" coords="480,68,652,107"/>
+<area shape="rect" id="node2" href="$a12398.html" title="Base struct for condition policy." alt="" coords="5,44,188,69"/>
+<area shape="rect" id="node4" href="$a12458.html" title="Allocator throwing via limit condition." alt="" coords="715,5,900,44"/>
+<area shape="rect" id="node6" href="$a12446.html" title="Type throwing via limit condition." alt="" coords="724,68,891,107"/>
+</map>

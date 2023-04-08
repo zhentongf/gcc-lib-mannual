@@ -1,0 +1,12 @@
+<map id="std::__future_base" name="std::__future_base">
+<area shape="rect" id="node1" title="Base class and enclosing scope." alt="" coords="5,145,137,171"/>
+<area shape="rect" id="node2" href="$a02634.html" title=" " alt="" coords="185,55,320,93"/>
+<area shape="rect" id="node5" href="$a02634.html" title=" " alt="" coords="185,139,320,177"/>
+<area shape="rect" id="node8" href="$a02634.html" title="Common implementation for future and shared_future." alt="" coords="185,223,320,261"/>
+<area shape="rect" id="node3" href="$a02646.html" title="Explicit specialization for future&lt;void&gt;" alt="" coords="376,5,515,31"/>
+<area shape="rect" id="node4" href="$a02654.html" title="Explicit specialization for shared_future&lt;void&gt;" alt="" coords="379,55,512,93"/>
+<area shape="rect" id="node6" href="$a02642.html" title="Partial specialization for future&lt;R&amp;&gt;" alt="" coords="368,117,523,143"/>
+<area shape="rect" id="node7" href="$a02650.html" title="Partial specialization for shared_future&lt;R&amp;&gt;" alt="" coords="379,167,512,205"/>
+<area shape="rect" id="node9" href="$a02530.html" title="Primary template for future." alt="" coords="375,229,516,255"/>
+<area shape="rect" id="node10" href="$a02534.html" title="Primary template for shared_future." alt="" coords="379,279,512,317"/>
+</map>

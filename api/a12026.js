@@ -1,0 +1,27 @@
+var a12026 =
+[
+    [ "descriptor_type", "a12026.html#a3cf970d643e95e0ed76ba157f10f3599", null ],
+    [ "encoding_state", "a12026.html#ad407d6c75dd25e0143c65efa41c67d7e", null ],
+    [ "encoding_state", "a12026.html#a69ace9d88aa7b1535688925c9b1862d1", null ],
+    [ "encoding_state", "a12026.html#ad9fa9dedbcde75837bd02411608b5ef2", null ],
+    [ "~encoding_state", "a12026.html#ad55192a8cb10f5302672e1aba14b1712", null ],
+    [ "character_ratio", "a12026.html#a5b14ba50e21f45c69de2c98ff2504499", null ],
+    [ "construct", "a12026.html#afef740bb77818b2c9d1a012d5c489b30", null ],
+    [ "destroy", "a12026.html#a5d444f548d2d03e508518c3a644a7ab1", null ],
+    [ "external_bom", "a12026.html#a85f049d12097371a72bea8fb918b99a1", null ],
+    [ "external_encoding", "a12026.html#a0abd462c7d2dac2a82f485c9c3a3cfe5", null ],
+    [ "good", "a12026.html#aa93b43284f5064a0d705ef2bdef219c9", null ],
+    [ "in_descriptor", "a12026.html#a887052e0b5cc8728c23c1d345d8f27be", null ],
+    [ "init", "a12026.html#a8c28037743c35aaebcc239579fdd9f02", null ],
+    [ "internal_bom", "a12026.html#acebd38ffb670cc53366ac5f5e2ff6409", null ],
+    [ "internal_encoding", "a12026.html#ab3b04c9e04f61af51b00859a523d6f28", null ],
+    [ "operator=", "a12026.html#a485ef4d2b951896a959a15478ea7b85d", null ],
+    [ "out_descriptor", "a12026.html#afa0b098f4418bebba3226e547d888ce0", null ],
+    [ "_M_bytes", "a12026.html#a227a73a77999543deeee23913c34dc45", null ],
+    [ "_M_ext_bom", "a12026.html#a120bbe88fb33e3cb276f616462b9687a", null ],
+    [ "_M_ext_enc", "a12026.html#a5e0e7ba0c4d93ddc3aeaf077e4815119", null ],
+    [ "_M_in_desc", "a12026.html#a0fdd518a082fa754c87b8ade6d454e09", null ],
+    [ "_M_int_bom", "a12026.html#a0a4077fe1962bcb9786359dc13b01da3", null ],
+    [ "_M_int_enc", "a12026.html#ac8129dd46118ed80f459bf4a09c31d4d", null ],
+    [ "_M_out_desc", "a12026.html#a1a3236abf1f2382d746d9f76da837281", null ]
+];

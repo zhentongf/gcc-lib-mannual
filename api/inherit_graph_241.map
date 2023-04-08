@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a12882.html" title="A size policy whose sequence of sizes form an exponential sequence (typically powers of 2." alt="" coords="225,5,432,44"/>
+<area shape="rect" id="node2" href="$a12890.html" title="A resize policy which delegates operations to size and trigger policies." alt="" coords="480,31,671,96"/>
+<area shape="rect" id="node3" href="$a13658.html" title=" " alt="" coords="5,68,177,133"/>
+<area shape="rect" id="node4" href="$a12874.html" title="A resize trigger policy based on a load check. It keeps the load factor between some load factors loa..." alt="" coords="243,68,414,133"/>
+</map>

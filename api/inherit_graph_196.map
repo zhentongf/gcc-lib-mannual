@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a13578.html" title="Node base." alt="" coords="5,81,199,133"/>
+<area shape="rect" id="node2" href="$a13582.html" title="Head node for PATRICIA tree." alt="" coords="247,5,405,57"/>
+<area shape="rect" id="node3" href="$a13590.html" title="Internal node type, PATRICIA tree." alt="" coords="247,81,405,133"/>
+<area shape="rect" id="node4" href="$a13586.html" title="Leaf node for PATRICIA tree." alt="" coords="247,157,405,209"/>
+</map>

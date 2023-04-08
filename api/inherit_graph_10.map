@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a12106.html" title="Base class for pool object." alt="" coords="5,44,169,69"/>
+<area shape="rect" id="node2" href="$a12122.html" title="Specialization for single thread." alt="" coords="217,5,357,44"/>
+<area shape="rect" id="node3" href="$a12134.html" title="Specialization for thread enabled, via gthreads.h." alt="" coords="217,68,357,107"/>
+</map>

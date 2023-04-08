@@ -1,0 +1,8 @@
+<map id="std::basic_stringstream&lt; _CharT, _Traits, _Alloc &gt;" name="std::basic_stringstream&lt; _CharT, _Traits, _Alloc &gt;">
+<area shape="rect" id="node1" title="Controlling input and output for std::string." alt="" coords="64,339,243,377"/>
+<area shape="rect" id="node2" href="$a02750.html" title="Template class basic_iostream." alt="" coords="84,252,223,291"/>
+<area shape="rect" id="node3" href="$a02742.html" title="Template class basic_istream." alt="" coords="5,165,141,204"/>
+<area shape="rect" id="node4" href="$a02734.html" title="Template class basic_ios, virtual base class for all stream classes." alt="" coords="73,79,234,117"/>
+<area shape="rect" id="node6" href="$a02746.html" title="Template class basic_ostream." alt="" coords="165,165,301,204"/>
+<area shape="rect" id="node5" href="$a06134.html" title="The base of the I/O class hierarchy." alt="" coords="104,5,203,31"/>
+</map>

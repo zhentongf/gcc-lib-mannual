@@ -1,0 +1,17 @@
+<map id="std::codecvt_base" name="std::codecvt_base">
+<area shape="rect" id="node1" title="Empty base class for codecvt facet [22.2.1.5]." alt="" coords="5,196,136,221"/>
+<area shape="rect" id="node2" href="$a05630.html" title=" " alt="" coords="209,5,374,57"/>
+<area shape="rect" id="node4" href="$a05630.html" title=" " alt="" coords="184,81,399,120"/>
+<area shape="rect" id="node6" href="$a05630.html" title=" " alt="" coords="209,144,374,196"/>
+<area shape="rect" id="node8" href="$a05630.html" title=" " alt="" coords="199,220,384,272"/>
+<area shape="rect" id="node10" href="$a05630.html" title=" " alt="" coords="209,296,374,348"/>
+<area shape="rect" id="node12" href="$a05630.html" title="Common base for codecvt functions." alt="" coords="199,372,384,424"/>
+<area shape="rect" id="node3" href="$a05646.html" title="Class codecvt&lt;char16_t, char, mbstate_t&gt; specialization." alt="" coords="466,12,621,51"/>
+<area shape="rect" id="node5" href="$a05638.html" title="class codecvt&lt;char, char, mbstate_t&gt; specialization." alt="" coords="472,81,615,120"/>
+<area shape="rect" id="node7" href="$a05642.html" title="Class codecvt&lt;wchar_t, char, mbstate_t&gt; specialization." alt="" coords="468,151,619,189"/>
+<area shape="rect" id="node9" href="$a12034.html" title="codecvt&lt;InternT, _ExternT, encoding_state&gt; specialization." alt="" coords="447,227,640,265"/>
+<area shape="rect" id="node11" href="$a05650.html" title="Class codecvt&lt;char32_t, char, mbstate_t&gt; specialization." alt="" coords="466,303,621,341"/>
+<area shape="rect" id="node13" href="$a05634.html" title=" " alt="" coords="468,372,619,411"/>
+<area shape="rect" id="node14" href="$a05634.html" title="Primary class template codecvt." alt="" coords="461,435,626,473"/>
+<area shape="rect" id="node15" href="$a05654.html" title="class codecvt_byname [22.2.1.6]." alt="" coords="688,428,840,480"/>
+</map>

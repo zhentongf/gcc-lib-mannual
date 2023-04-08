@@ -1,0 +1,16 @@
+<map id="__gnu_parallel::__generic_for_each_selector&lt; _It &gt;" name="__gnu_parallel::__generic_for_each_selector&lt; _It &gt;">
+<area shape="rect" id="node1" title="Generic __selector for embarrassingly parallel functions." alt="" coords="5,381,180,420"/>
+<area shape="rect" id="node2" href="$a10170.html" title="std::accumulate() selector." alt="" coords="228,5,427,44"/>
+<area shape="rect" id="node3" href="$a10182.html" title="Selector that returns the difference between two adjacent __elements." alt="" coords="235,68,419,107"/>
+<area shape="rect" id="node4" href="$a10166.html" title="std::count_if () selector." alt="" coords="245,131,410,169"/>
+<area shape="rect" id="node5" href="$a10162.html" title="std::count() selector." alt="" coords="246,193,409,232"/>
+<area shape="rect" id="node6" href="$a10142.html" title="std::fill() selector." alt="" coords="257,256,397,295"/>
+<area shape="rect" id="node7" href="$a10134.html" title="std::for_each() selector." alt="" coords="251,319,404,357"/>
+<area shape="rect" id="node8" href="$a10138.html" title="std::generate() selector." alt="" coords="237,381,418,420"/>
+<area shape="rect" id="node9" href="$a10178.html" title="Selector that just returns the passed iterator." alt="" coords="241,444,414,483"/>
+<area shape="rect" id="node10" href="$a10174.html" title="std::inner_product() selector." alt="" coords="246,507,409,559"/>
+<area shape="rect" id="node11" href="$a10158.html" title="std::replace() selector." alt="" coords="232,583,423,621"/>
+<area shape="rect" id="node12" href="$a10154.html" title="std::replace() selector." alt="" coords="242,645,413,684"/>
+<area shape="rect" id="node13" href="$a10146.html" title="std::transform() __selector, one input sequence variant." alt="" coords="230,708,425,747"/>
+<area shape="rect" id="node14" href="$a10150.html" title="std::transform() __selector, two input sequences variant." alt="" coords="230,771,425,809"/>
+</map>

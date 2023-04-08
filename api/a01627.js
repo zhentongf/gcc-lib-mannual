@@ -1,0 +1,36 @@
+var a01627 =
+[
+    [ "in_place_t", "a11826.html", null ],
+    [ "optional", "a11822.html", [
+      [ "value_type", "a11822.html#a76f7dec8b73b5c2a327e1499f9377e77", null ],
+      [ "optional", "a11822.html#ab62f9eca1f45773b03b0cd0a55ed6c56", null ],
+      [ "optional", "a11822.html#a1b00d32a52f30992694ada8caca4a823", null ],
+      [ "optional", "a11822.html#a1b00d32a52f30992694ada8caca4a823", null ],
+      [ "optional", "a11822.html#a1422c558f2a90617079f59dcc13f45bd", null ],
+      [ "optional", "a11822.html#a1422c558f2a90617079f59dcc13f45bd", null ],
+      [ "optional", "a11822.html#a87c6c66e8024cb875018dcf92e931a92", null ],
+      [ "optional", "a11822.html#a87c6c66e8024cb875018dcf92e931a92", null ],
+      [ "emplace", "a11822.html#a32a6fa9d6e3935453b0bea719052a90c", null ],
+      [ "emplace", "a11822.html#a98001758510cbd45538ba02c3fbd4f74", null ],
+      [ "operator bool", "a11822.html#a1c41e133e82ffd080239b64234d51bc4", null ],
+      [ "operator*", "a11822.html#a7bc83fc73afc705a5482b59ce6e2ca0f", null ],
+      [ "operator*", "a11822.html#a66d8327015981b8049b19ca814c9c1e1", null ],
+      [ "operator*", "a11822.html#ad5baab9f8f3380f22ae89682ebe52735", null ],
+      [ "operator*", "a11822.html#ace015adade863e2cb312832c6098d1d1", null ],
+      [ "operator->", "a11822.html#a2a3f0f18bdf17c936c2b7e6c9fbe7ee7", null ],
+      [ "operator->", "a11822.html#a81c0a7dc6673846348522b0c24ba6196", null ],
+      [ "operator=", "a11822.html#a6d51e63b6cddb2823b30ee626a8ced8d", null ],
+      [ "operator=", "a11822.html#a47118c8b80e699324c33370a1de84dba", null ],
+      [ "operator=", "a11822.html#a07f34d0587b7a1b2d8f79ed5c27ccf42", null ],
+      [ "operator=", "a11822.html#ae74bac4ef7c2b2c69b93c765900b669f", null ],
+      [ "swap", "a11822.html#a2d22dce8e2df0a35d40e521e97f86bd4", null ],
+      [ "value", "a11822.html#acc528014adabd1d22ecbd46a7073da6f", null ],
+      [ "value", "a11822.html#a821f4e295b347fa4cb32fef553a724d5", null ],
+      [ "value", "a11822.html#abe8060e6071c237275795e90caec0982", null ],
+      [ "value", "a11822.html#ac623f354478d341d71a8febe6fccaef8", null ],
+      [ "value_or", "a11822.html#ac503d2b8a3e8582ed7a28e8d032f3bc5", null ],
+      [ "value_or", "a11822.html#a24af000be1a559fcbce6c3ea99b196aa", null ]
+    ] ],
+    [ "in_place", "a01627.html#ga69b3880c858acc1b7f88478d209b2fb3", null ],
+    [ "nullopt", "a01627.html#ga2221e221b29838a39e88d176b5859900", null ]
+];

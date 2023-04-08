@@ -1,0 +1,5 @@
+<map id="std::__future_base::_Result_alloc&lt; _Res, _Alloc &gt;" name="std::__future_base::_Result_alloc&lt; _Res, _Alloc &gt;">
+<area shape="rect" id="node1" title="A result object that uses an allocator." alt="" coords="5,179,156,231"/>
+<area shape="rect" id="node2" href="$a02558.html" title="A result object that has storage for an object of type _Res." alt="" coords="15,92,147,131"/>
+<area shape="rect" id="node3" href="$a02550.html" title="Base class for results." alt="" coords="15,5,147,44"/>
+</map>

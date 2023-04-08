@@ -1,0 +1,10 @@
+<map id="std::ctype_base" name="std::ctype_base">
+<area shape="rect" id="node1" title="Base class for ctype." alt="" coords="5,75,123,100"/>
+<area shape="rect" id="node2" href="$a06330.html" title=" " alt="" coords="171,5,321,44"/>
+<area shape="rect" id="node4" href="$a06330.html" title="Common base for ctype facet." alt="" coords="171,68,321,107"/>
+<area shape="rect" id="node7" href="$a06338.html" title="The ctype&lt;char&gt; specialization." alt="" coords="177,131,315,156"/>
+<area shape="rect" id="node3" href="$a06342.html" title="The ctype&lt;wchar_t&gt; specialization." alt="" coords="369,12,528,37"/>
+<area shape="rect" id="node5" href="$a06334.html" title="Primary class template ctype facet." alt="" coords="373,75,525,100"/>
+<area shape="rect" id="node6" href="$a06346.html" title="class ctype_byname [22.2.1.2]." alt="" coords="576,68,724,107"/>
+<area shape="rect" id="node8" href="$a06350.html" title="22.2.1.4 Class ctype_byname specializations." alt="" coords="375,124,523,163"/>
+</map>

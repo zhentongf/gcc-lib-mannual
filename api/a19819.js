@@ -1,0 +1,4 @@
+var a19819 =
+[
+    [ "_GLIBCXX_EXPERIMENTAL_REGEX", "a19819.html#a87879736de06c643044baca7753d432b", null ]
+];

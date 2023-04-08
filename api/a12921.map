@@ -1,0 +1,23 @@
+<map id="__gnu_pbds::container_tag" name="__gnu_pbds::container_tag">
+<area shape="rect" id="node1" title="Base data structure tag." alt="" coords="5,420,191,445"/>
+<area shape="rect" id="node2" href="$a12934.html" title="Basic associative&#45;container." alt="" coords="239,215,432,240"/>
+<area shape="rect" id="node14" href="$a12982.html" title="Basic priority&#45;queue." alt="" coords="263,413,408,452"/>
+<area shape="rect" id="node20" href="$a12926.html" title="Basic sequence." alt="" coords="242,532,429,557"/>
+<area shape="rect" id="node3" href="$a12950.html" title="Basic branch structure." alt="" coords="480,140,688,165"/>
+<area shape="rect" id="node10" href="$a12938.html" title="Basic hash structure." alt="" coords="487,189,681,215"/>
+<area shape="rect" id="node13" href="$a12978.html" title="List&#45;update." alt="" coords="487,239,681,264"/>
+<area shape="rect" id="node4" href="$a12954.html" title="Basic tree structure." alt="" coords="749,67,901,92"/>
+<area shape="rect" id="node8" href="$a12970.html" title="Basic trie structure." alt="" coords="751,140,899,165"/>
+<area shape="rect" id="node5" href="$a12966.html" title="Ordered&#45;vector tree." alt="" coords="971,5,1143,31"/>
+<area shape="rect" id="node6" href="$a12958.html" title="Red&#45;black tree." alt="" coords="972,55,1143,80"/>
+<area shape="rect" id="node7" href="$a12962.html" title="Splay tree." alt="" coords="963,104,1152,129"/>
+<area shape="rect" id="node9" href="$a12974.html" title="PATRICIA trie." alt="" coords="970,153,1145,179"/>
+<area shape="rect" id="node11" href="$a12942.html" title="Collision&#45;chaining hash." alt="" coords="737,189,914,215"/>
+<area shape="rect" id="node12" href="$a12946.html" title="General&#45;probing hash." alt="" coords="736,239,915,264"/>
+<area shape="rect" id="node15" href="$a12998.html" title="Binary&#45;heap (array&#45;based)." alt="" coords="514,288,654,327"/>
+<area shape="rect" id="node16" href="$a12990.html" title="Binomial&#45;heap." alt="" coords="507,351,661,389"/>
+<area shape="rect" id="node17" href="$a12986.html" title="Pairing&#45;heap." alt="" coords="512,413,656,452"/>
+<area shape="rect" id="node18" href="$a12994.html" title="Redundant&#45;counter binomial&#45;heap." alt="" coords="499,476,669,515"/>
+<area shape="rect" id="node19" href="$a13002.html" title="Thin heap." alt="" coords="490,539,678,564"/>
+<area shape="rect" id="node21" href="$a12930.html" title="Basic string container, inclusive of strings, ropes, etc." alt="" coords="503,588,665,613"/>
+</map>

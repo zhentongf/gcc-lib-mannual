@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a12394.html" title="Base class for checking address and label information about allocations. Create a std::map between th..." alt="" coords="247,137,428,163"/>
+<area shape="rect" id="node2" href="$a12454.html" title=" " alt="" coords="487,193,709,232"/>
+<area shape="rect" id="node4" href="$a12454.html" title=" " alt="" coords="497,68,699,107"/>
+<area shape="rect" id="node6" href="$a12454.html" title="Allocator class with logging and exception generation control. Intended to be used as an allocator_ty..." alt="" coords="505,131,691,169"/>
+<area shape="rect" id="node3" href="$a12466.html" title="Allocator throwing via random condition." alt="" coords="757,193,943,232"/>
+<area shape="rect" id="node5" href="$a12458.html" title="Allocator throwing via limit condition." alt="" coords="757,68,943,107"/>
+<area shape="rect" id="node7" href="$a12398.html" title="Base struct for condition policy." alt="" coords="5,137,188,163"/>
+<area shape="rect" id="node8" href="$a12402.html" title="Base class for incremental control and throw." alt="" coords="247,75,428,100"/>
+<area shape="rect" id="node11" href="$a12422.html" title="Base class for random probability control and throw." alt="" coords="236,200,439,225"/>
+<area shape="rect" id="node9" href="$a12442.html" title=" " alt="" coords="512,5,684,44"/>
+<area shape="rect" id="node10" href="$a12446.html" title="Type throwing via limit condition." alt="" coords="767,5,933,44"/>
+<area shape="rect" id="node12" href="$a12442.html" title=" " alt="" coords="501,256,695,295"/>
+<area shape="rect" id="node13" href="$a12450.html" title="Type throwing via random condition." alt="" coords="767,256,933,295"/>
+</map>

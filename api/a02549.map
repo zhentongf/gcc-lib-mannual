@@ -1,0 +1,7 @@
+<map id="std::__future_base::_Result_base" name="std::__future_base::_Result_base">
+<area shape="rect" id="node1" title="Base class for results." alt="" coords="5,75,137,113"/>
+<area shape="rect" id="node2" href="$a02558.html" title="A result object that has storage for an object of type _Res." alt="" coords="190,12,322,51"/>
+<area shape="rect" id="node4" href="$a02618.html" title="Partial specialization for reference types." alt="" coords="185,75,327,113"/>
+<area shape="rect" id="node5" href="$a02622.html" title="Explicit specialization for void." alt="" coords="190,137,322,176"/>
+<area shape="rect" id="node3" href="$a02562.html" title="A result object that uses an allocator." alt="" coords="375,5,525,57"/>
+</map>

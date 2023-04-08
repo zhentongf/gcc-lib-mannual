@@ -1,0 +1,7 @@
+<map id="__gnu_pbds::detail::branch_policy&lt; Node_CItr, Node_Itr, _Alloc &gt;" name="__gnu_pbds::detail::branch_policy&lt; Node_CItr, Node_Itr, _Alloc &gt;">
+<area shape="rect" id="node1" title="Primary template, base class for branch structure policies." alt="" coords="5,101,171,153"/>
+<area shape="rect" id="node2" href="$a13750.html" title="Base class for trie policies." alt="" coords="240,49,388,115"/>
+<area shape="rect" id="node5" href="$a13074.html" title="Functor updating ranks of entrees." alt="" coords="219,139,409,204"/>
+<area shape="rect" id="node3" href="$a13086.html" title="Functor updating ranks of entrees." alt="" coords="473,5,639,71"/>
+<area shape="rect" id="node4" href="$a13082.html" title="A node updator that allows tries to be searched for the range of values that match a certain prefix." alt="" coords="457,95,655,160"/>
+</map>

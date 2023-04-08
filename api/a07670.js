@@ -1,0 +1,9 @@
+var a07670 =
+[
+    [ "first_argument_type", "a07670.html#ad907337549df2e1a3c3dbca8e0693dba", null ],
+    [ "result_type", "a07670.html#a5fe0082d5851e1be6383ad8d8493264e", null ],
+    [ "second_argument_type", "a07670.html#aae0f69fe498930627177ff1f06d0ef9f", null ],
+    [ "operator()", "a07670.html#a1d4bcc89f346975073675658492fbc3c", null ],
+    [ "operator()", "a07670.html#a9be75a595ff5ea0aa1e0cef259224a2c", null ],
+    [ "operator()", "a07670.html#a962c817b49191d29ad8fa34641ae9aea", null ]
+];

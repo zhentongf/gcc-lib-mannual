@@ -1,0 +1,6 @@
+<map id="std::filesystem::filesystem_error" name="std::filesystem::filesystem_error">
+<area shape="rect" id="node1" title="Exception type thrown by the Filesystem library." alt="" coords="5,225,183,264"/>
+<area shape="rect" id="node2" href="$a03582.html" title="An exception type that includes an error_code value." alt="" coords="31,152,157,177"/>
+<area shape="rect" id="node3" href="$a03470.html" title="One of two subclasses of exception." alt="" coords="28,79,160,104"/>
+<area shape="rect" id="node4" href="$a05922.html" title="Base class for all library exceptions." alt="" coords="41,5,147,31"/>
+</map>

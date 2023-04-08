@@ -1,0 +1,28 @@
+var a00749 =
+[
+    [ "default_delete", "a08898.html", "a08898" ],
+    [ "default_delete< _Tp[]>", "a08902.html", "a08902" ],
+    [ "unique_ptr", "a08906.html", "a08906" ],
+    [ "unique_ptr< _Tp[], _Dp >", "a08910.html", "a08910" ],
+    [ "__cpp_lib_make_unique", "a01579.html#ga535c3432b51655f9828df78d38812206", null ],
+    [ "operator!=", "a00749.html#gab71dd0738d6913a0d9506ccbf8c3041c", null ],
+    [ "operator!=", "a00749.html#ga62ba9282b653a8335981cad20a376356", null ],
+    [ "operator!=", "a00749.html#gae0107118dc99b80142ed333bb62c2d6a", null ],
+    [ "operator<", "a00749.html#gabcdd0678ed78a0fdd0ee57c0b098412d", null ],
+    [ "operator<", "a00749.html#ga7590d6f3f0ad1c21b7c8a6dfe2a3e8ef", null ],
+    [ "operator<", "a00749.html#gacfbddb4ea4ec42a312a6c0434c390657", null ],
+    [ "operator<=", "a00749.html#ga2e0da9ccd4df08a61a17c09c1c3d8c3c", null ],
+    [ "operator<=", "a00749.html#ga6ec913970e2f13a017039b2e943bed76", null ],
+    [ "operator<=", "a00749.html#gaedb0212f30dde361f8cdc1d5ac48b4e4", null ],
+    [ "operator==", "a00749.html#gac07f4306048fda1977fc01f7f0ffa968", null ],
+    [ "operator==", "a00749.html#gae5d5d4569fcdc4e2dc661da1fa88c488", null ],
+    [ "operator==", "a00749.html#ga2abdf527d9e5083b01cbc6a0f913bda3", null ],
+    [ "operator>", "a00749.html#gaa88560c717f1398f7e681024eb978b0c", null ],
+    [ "operator>", "a00749.html#ga4d4d8f437422757af5b82f5eae9b7e0a", null ],
+    [ "operator>", "a00749.html#gaab54869a96ed8127393b16fd8eb359e7", null ],
+    [ "operator>=", "a00749.html#gabc5c1b10d907d39d6966d2c7b77a726c", null ],
+    [ "operator>=", "a00749.html#ga00a752aa35bfb36f4d7abd8c5da3cbf0", null ],
+    [ "operator>=", "a00749.html#gadd4e2bcd9e5fa6b15ac59105dffcc5c0", null ],
+    [ "swap", "a00749.html#ga390deab7b0edfe9dbd7f5ecde06bf463", null ],
+    [ "__os", "a00749.html#gabeffe60043829f3964ac627ca327d006", null ]
+];
